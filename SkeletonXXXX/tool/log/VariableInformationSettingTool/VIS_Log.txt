@@ -1,0 +1,86 @@
+2023-06-08 16:23:09 [INFO] SmartHFManagerFrm - main - Start application.
+2023-06-08 16:23:09 [INFO] ConfigManager - loadXXXXConfig - Start load config
+2023-06-08 16:23:09 [INFO] ConfigManager - loadXXXXConfig - End load config
+2023-06-08 16:23:09 [INFO] SmartHFManagerFrm - <init> - Start HF main windows
+2023-06-08 16:23:09 [INFO] SmartHFGroupBtnPnl - init - Start
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Displayname: CopyOf NewSmartJobGate(2)
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Created: 1686041704327
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - LastModified: 1686125406329
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Script: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Rule: oggi-%IndexSt%2%IndexSt%2%InputSt%2
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Displayname: NewHotfolder
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Created: 1685703270476
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - LastModified: 1685703270479
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Script: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Rule: ds%Job%2
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Displayname: NewHotfolder(2)
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Created: 1685703408110
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - LastModified: 1685703408113
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Script: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Rule: %Job%2
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Displayname: NewSmartJobGate(2)
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Created: 1686041704327
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - LastModified: 1686041704327
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Script: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Rule: oggi-%IndexSt%2%IndexSt%2%InputSt%2
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Displayname: _FolioAssign
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Created: 1319623238437
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - LastModified: 1319623238453
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Script: CreateJobAndRegisterContent.js
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Rule: %Job%_%JobTpl%_{%NombleStr%_+%NombleLen%}
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Start CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Displayname: _IndexAssign
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Iconname: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Comment: 
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Created: 1319623144578
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - LastModified: 1319623144734
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - Activation: true
+2023-06-08 16:23:09 [INFO] CommonUtils - readPropertyFile - End CommonUtils.readPropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Start CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Script: CreateJobAndRegisterContent.js
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - Rule: %Job%_%JobTpl%_[%IndexSt%-%IndexEn%]
+2023-06-08 16:23:09 [INFO] CommonUtils - readRulePropertyFile - End CommonUtils.readRulePropertyFile()
+2023-06-08 16:23:09 [INFO] SmartHFManagerPnl - installListener - Start installListener 
+2023-06-08 16:23:09 [INFO] SmartHFManagerPnl - getListenerActionMap - Set action map
+2023-06-08 16:23:09 [INFO] SmartHFManagerPnl - getListenerActionMap - End set action map.
+2023-06-08 16:23:09 [INFO] SmartHFManagerPnl - installListener - End installListener
+2023-06-08 16:23:09 [INFO] SmartHFManagerFrm - init - Start.
+2023-06-08 16:23:09 [INFO] SmartHFManagerFrm - init - End.
+2023-06-08 16:23:09 [INFO] SmartHFManagerFrm - <init> - End.
+2023-06-08 16:28:07 [INFO] SmartHFPropertyFrm - init - Start.
+2023-06-08 16:28:08 [INFO] SmartHFPropertyFrm - init - end
